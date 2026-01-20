@@ -1,65 +1,1000 @@
-#EXTM3U 
+#EXTM3U url-tvg="https://vnepg.site/epg.xml, https://lichphatsong.site/schedule/epg.xml, https://cglive.quanlehong539.workers.dev/api/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 tvg-id="vtc1" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png", VTC1
-https://1236573804.pop.vnptcdn.com/vtc1-hd-abr/vtcnow/vtc1_hd_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc2" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png", VTC2
-https://1236573804.pop.vnptcdn.com/livevtcnow/VTC2/livevtcnow/VTC2_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png", VTC3
-https://1236573804.pop.vnptcdn.com/livevtcnow/VTC3/livevtcnow/VTC3_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc4hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png", VTC4
-https://1236573804.pop.vnptcdn.com/livevtcnow/VTC4/livevtcnow/VTC4_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png", VTC5
-https://1236573804.pop.vnptcdn.com/livevtcnow/VTC5/livevtcnow/VTC5_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png", VTC6
-https://1236573804.pop.vnptcdn.com/livevtcnow/VTC6/livevtcnow/VTC6_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png", VTC7
-https://1236573804.pop.vnptcdn.com/livevtcnow/VTC7/livevtcnow/VTC7_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc8" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png", VTC8
-https://1236573804.pop.vnptcdn.com/livevtcnow/VTC8/livevtcnow/VTC8_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png", VTC9
-https://1236573804.pop.vnptcdn.com/livevtcnow/VTC9/livevtcnow/VTC9_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc10" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png", VTC10
-https://1236573804.pop.vnptcdn.com/livevtcnow/VTC10/livevtcnow/VTC10_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc11" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png", VTC11
-https://1236573804.pop.vnptcdn.com/livevtcnow/VTC11/livevtcnow/VTC11_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc14hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png", VTC14
-https://1236573804.pop.vnptcdn.com/livevtcnow/VTC14/livevtcnow/VTC14_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc16" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png", VTC16
-https://1236573804.pop.vnptcdn.com/livevtcnow/VTC16/livevtcnow/VTC16_720p/chunks.m3u8
+#EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="THIẾT YẾU" tvg-id="antvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logoantv.png", ANTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="THIẾT YẾU" tvg-id="qpvnhd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png", QPVN
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vietnamtoday" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/Vietnam_Today_v2.png/revision/latest?cb=20250813040753&path-prefix=vi", Vietnam Today
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv5hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="fashionhd" group-title="🌈 | Msky" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="bloomberg" group-title="🌈 | Msky" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
-https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="dmax" group-title="🌈 | Msky" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv6hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/FIM360_logo.png/revision/latest?cb=20221115031115&path-prefix=vi", SCTV6
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv7hd" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/HTV7-Logo-2003.png", HTV7
+https://vc.101vn.com/htv/htvcmb.php?id=256
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvthethaohd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể thao
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv9hd" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/HTV9-Logo.png", HTV9
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvkey" tvg-logo="https://sdtv.vn/wp-content/uploads/2022/12/HTV_Key_logo_29.webp", HTV Key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=9
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png", HTV3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=192
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
+https://vc.101vn.com/htv/htvcmb.php?id=2669
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onviegiaitri" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/VTVcab_1.png/revision/latest?cb=20240918002543&path-prefix=vi", Vie Giải trí
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onviedramas" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/VTVcab_19.png/revision/latest?cb=20240918001756&path-prefix=vi", Vie Dramas
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onphimviet" tvg-logo="https://img.vtvprime.vn/vDASEJI2IRP0eBox0ta6hgKo4vnY-3AdofWLa5lSqjM/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTc3YzdkNmItZTVhNi00ZTkyLWIzYzUtMGEzMTkyZjIyM2RhLnBuZw==.png", ON Phim Việt
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=175
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onmovies" tvg-logo="https://img.vtvprime.vn/8-eDFNeJkwyONvmJVu_JydPc2dZaNJXuBTY7vtvCxxE/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZWQzOTEzNjgtYTJmNy00NDBkLWI0N2ItNzA2MDliNjJmNDYzLnBuZw==.png", ON Movies
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onechannel" tvg-logo="https://img.vtvprime.vn/bofK3Lca_KQJMc9sb6pUyQ_A41aWbsQi2ibNAzkN3I0/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTk3YjgwOGUtNjI3OS00NWQ4LWJkMTAtNWY1MGE1MjIwMTZkLnBuZw==.png", ON Echannel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="ono2tv" tvg-logo="https://img.vtvprime.vn/5FxYjiz34GsArbti7aFiSkIO7NMCxKNZcQJ9AvIme80/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvODAyNGIwMDQtNGJiNC00M2Y3LWJkYmEtYmU0MWVkMGY0NjM4LnBuZw==.png", ON O2TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onbibi" tvg-logo="https://img.vtvprime.vn/vjXRRLGeFrNx1iAkqhrK9RoAgU1oW6kq5q_6r7cd9zs/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYzI3NWExNmEtNTMwOS00ZWE3LWJjMjMtYTMyNGIwZDczNGJlLnBuZw==.png", ON BiBi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="oninfotv" tvg-logo="https://img.vtvprime.vn/nCr-YgSmtNg5gcpJ35d6l_T4DUWz8fzr9EJpd9jAZ6E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvM2E2NzM5NzQtNzRhYi00MjYxLTg2M2QtZWE2YzUyNzU5YzcyLnBuZw==.png", ON Info TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=189
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onstyle" tvg-logo="https://img.vtvprime.vn/TxObOi0p9hC6K414i12Fk27SP8s_QKswAvPaRH2kK6M/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNTcyOGM3MzEtOWE4OS00ZjljLTkyYTItMWVhODZmNzhiOWE4LnBuZw==.png", ON Style TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="oncine" tvg-logo="https://img.vtvprime.vn/XY6SjolNpy8W8Eh_v_2oDyE6BiNOvofLosgPYO-hlY4/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDY5YjgyNmUtNjkzYi00YzBiLWFhZmYtNmFhZGFjZjFhZDA0LnBuZw==.png", ON Cine
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onmusic" tvg-logo="https://img.vtvprime.vn/39RnkA6ZHfNSCcsMaaSivvTVwmWjeGsbqlQsmD7nuvQ/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvN2RmOTYzYTYtZWRkYS00MDdjLWIxYmYtYTAwODBhMTUyYTNlLnBuZw==.png", ON Music
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="ontrending" tvg-logo="https://img.vtvprime.vn/55xu-sW33ZbTdC_Jok1jkP6jWGpa3U96dXvvDuXoyz0/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOGZjNzVhY2EtYjZhYS00MjYwLWIwMDMtZDRkYzg4OWI4ZGNkLnBuZw==.png", ON Trending TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onvfamily" tvg-logo="https://img.vtvprime.vn/8oeGePxG0Z-iJqm5biFVNdMdAlVHFDYsS0i7i3IpH2Y/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOGI0YzYzOTgtNWJiOS00ODQ1LWE1ZjMtZTdhZTM5ZTc4NzVmLnBuZw==.png", ON VFamily
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onlife" tvg-logo="https://img.vtvprime.vn/cJ9URVIqC2BkU1gsT0IKiEy0tXDXqu7C4M3Ni3hjlgY/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvY2U2MWMwZGEtMWI1Zi00ZWJiLWE4ZTktZjdmZTVkNzRlODhmLnBuZw==.png", ON Life
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onkids" tvg-logo="https://img.vtvprime.vn/L7ERumqY3GEtK8vTe_DtMEJRYJkZPrVD3O4cbdT5P44/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOGFlYmUzZGMtODZmYS00NGFkLTlhNzUtODg5NmFkODZhNGI3LnBuZw==.png", ON Kids
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv1hd" tvg-logo="https://img.vtvprime.vn/PYph2rJ-XMzrNFRf8Hv0wb-XDpm2FzIUDN-84ijmLic/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvODJkMDYzOTQtZmEwYi00MWI3LWIzMTYtOWMwMDNkNDBjNjExLnBuZw==.png", SCTV1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv2hd" tvg-logo="https://cdn1.vieclam24h.vn/upload/files_cua_nguoi_dung/logo/2018/06/28/1530173074_todaytv-logo.png", SCTV2
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv3hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/See_TV_SCTV3.png/revision/latest?cb=20201010113238&path-prefix=vi", SCTV3
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh34.vtvprime.vn/hls/SCTV3/01.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv4hd" tvg-logo="https://img.vtvprime.vn/WMTZXKyigQ-RaYPgvoiNsQ-JmSRcv-r_2r-WJB9sQaM/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNGM4MzMzNWEtZWVkMS00ZDI4LTg5YWYtNThmY2U3NWM2ZDExLnBuZw==.png", SCTV4
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv7hd" tvg-logo="https://img.vtvprime.vn/7DdEBmnXEhKFdbrbixhsUGm-f2_qQdT_LAZJ1eTCK4w/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjlhOWYyZTItODAxZi00MWY2LWI4N2MtZjBjNTgzNzgyMmRhLnBuZw==.png", SCTV7
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh34.vtvprime.vn/hls/SCTV7/01.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv8hd" tvg-logo="https://vitv.vn/Content/Images/logo.png", SCTV8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh34.vtvprime.vn/hls/SCTV8/01.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv11hd" tvg-logo="https://img.vtvprime.vn/eWaND4ssKhduh3y8xyVnH7HU6rpSMq7YtmP8GMOgA-E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjRmNDYwNzgtZjcxNy00N2U3LTk3ZjUtYTBlYjkyNGRmYTZmLnBuZw==.png", SCTV11
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh34.vtvprime.vn/hls/SCTV11/01.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv12hd" tvg-logo="https://img.vtvprime.vn/jYKJvoPERv5Gx9AWhslxlbdc4rzM2ICyqyChjz3ipi0/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYjM0MmI2NGYtNDkxNC00NDFlLTk3YTEtZGJlMmE2ZGIxZDJmLnBuZw==.png", SCTV12
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv13hd" tvg-logo="https://img.vtvprime.vn/sQYYqzXYklvp6qVgetV_H5iougYm0Y6WL7Rgq4sCPNw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTRlNWVlNmItZWQyNi00NjNmLWJkM2MtYWIxZmVjOWY1Y2FjLnBuZw==.png", SCTV13
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv14hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/K%C3%AAnh_Phim_Vi%E1%BB%87t_SCTV14.png/revision/latest?cb=20231115234752&path-prefix=vi", SCTV14
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv16hd" tvg-logo="https://img.vtvprime.vn/HF8Odbai0ixX4FPA8KqCaLs1VOA4ohXFeEchMnmZC1Q/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNjQxNTVkMjctY2Y1ZC00ZjgyLTlmNTktNzMwMTQ5M2ZjOGIyLnBuZw==.png", SCTV16
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv18hd" tvg-logo="https://img.vtvprime.vn/lwCZ6Ou47DmElCmpM04jou1kewLPYbkxxBdB_OUy1PI/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNWRlNmQyYWQtODY1ZC00MzlmLWEyYzUtNDIwYjI5ZWU4Nzk1LnBuZw==.png", SCTV18
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv22hd" tvg-logo="https://img.vtvprime.vn/8EDc4aHKZhga3-JQ72NQf06cwtefrcE_jgxUPiKUA_E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjk2OTYyYTktOWIwNy00YThmLWE5ZWUtYzY0NmY4YWI2M2Y1LnBuZw==.png", SCTV22
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctvhdpth" tvg-logo="https://img.vtvprime.vn/cf-cQKJDbIW9958UPPY8xOI8hO8vX_DZFbSv5-4jE1E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOWU5N2QxMzEtM2Q5ZS00ODVmLWFkNzYtODk5YzkzYjQ0YjM5LnBuZw==.png", SCTV Phim tổng hợp
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvcthuanviet" tvg-logo="https://htvc.vn/uploads/channel/2022/06/07/2749531-logoc-thuanviet.png", HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvcgiadinhhd" tvg-logo="https://htvc.vn/uploads/channel/2018/06/06/3590945-logo-htvc-gia-d.png", HTVC Gia đình
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvcphunuhd" tvg-logo="https://htvc.vn/uploads/channel/2016/10/20/425058-logo-phunu-fina.png", HTVC Phụ nữ
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvcphimhd" tvg-logo="https://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png", HTVC Phim
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvccanhachd" tvg-logo="https://htvc.vn/uploads/channel/2017/04/10/2028200-ca-nhac-01.png", HTVC Ca nhạc
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvcdulichhd" tvg-logo="https://htvc.vn/uploads/channel/2015/02/12/9681507-logo-htvc-dulic.png", HTVC Du lịch và Cuộc sống
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvcplushd" tvg-logo="https://htvc.vn/uploads/channel/2017/06/12/2377392-plus.png", HTVC Plus
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png", VTV2
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv3hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png", VTV3
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://vtv3-autom3u.quanlehong539.workers.dev
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv4hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png", VTV4
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/fnxhd1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv5hdtnb" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/VTV5_T%C3%A2y_Nam_B%E1%BB%99.png/revision/latest?cb=20200530233645&path-prefix=vi", VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv5hdtn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vtv5taynguyen_logo.svg/1200px-Vtv5taynguyen_logo.svg.png", VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv7hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/VTV7_logo_06.02.2016.png/revision/latest?cb=20221213075109&path-prefix=vi", VTV7
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://vtv7-autom3u.quanlehong539.workers.dev
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv8hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/1200px-VTV8_logo_2016_final.svg.png", VTV8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://vtv8-autom3u.quanlehong539.workers.dev
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv9hd" tvg-logo="https://static.wikia.nocookie.net/vtv/images/9/95/VTV9_logo.png/revision/latest?cb=20200926010814&path-prefix=vi", VTV9
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://vtv9-autom3u.quanlehong539.workers.dev
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtvcantho" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTV10_logo.png", VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://image.sbs.co.kr/sbs/common/sbs_sns_bnr_640x360.png", SBS
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://img.imbc.com/commons/2018/image/comm2018noti/meta_mbc.png", MBC
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://image.xumo.com/v1/channels/channel/99991785/600x337.webp?type=channelTile", BeIN Sports Xtra
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="dw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", Deutsche Welle
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png", MONO29
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/logo-blanco-oficial-2024.png", TeleSUR English
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/chunklist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.oann.com/wp-content/uploads/2023/11/OAN-only-logo.webp", OAN Network
+https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png", BeIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://www.oopsnew.com/wp-content/uploads/2021/01/True-Premier-HD-1.jpg", True Premier Football 1
-https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://www.oopsnew.com/wp-content/uploads/2021/01/True-Premier-HD-2.jpg", True Premier Football 2
-https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://i.ytimg.com/vi/2XEz8wG2I9s/maxresdefault.jpg", Thairath TV
-https://ctrl.laotv.la/live/THAIRATHTVHD/index.m3u8
-#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://i.vimeocdn.com/video/560827526-9804beaf8342cb7bfa1b5b78ba7131e02da93434624c49fdde3e3290da25aea5-d_750x421.875", CCTV1
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://hqth.me/ltv3logo", LNTV3
-https://ctrl.laotv.la/live/LNTV3/index.m3u8
-#EXTINF:-1 tvg-id="nhkworld" group-title="🌏 | Quốc tế" tvg-logo="https://i.vimeocdn.com/video/569541310-eab7f4fae9f42d0b92caca1ca21e02bb1421db591a211b3f6158e742c2e79754-d_750x421.875", NHK World Premium
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2021/08/Tennis-Channel-continues-its-international-expansion-India.jpg", Tennis Channel
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/wsnlogocolor_1920x1080.png", Women's Sports Network
+https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlistR1080p.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="mbcamerica" tvg-logo="https://img.imbc.com/commons/2018/image/main/mbc-logo.png", MBC
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cgtn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png", CGTN English
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cgtndocu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png", CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png", Russia Today
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png", RT Documentary
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/960px-Zvezda_logo.svg.png", Zvezda TV
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.squarespace-cdn.com/content/v1/681cd3de21167e0c1e46ae95/5ce96b05-bd53-4825-849c-1d0e94c154e8/trtworld+logo.png", TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="traceurban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png", Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="zoomoo" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png", ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="fashionhd" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/b/b0/Fashion_tv.png", Fashion TV
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1200px-Channel_NewsAsia_logo_%28shape_only%29.svg.png", Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="historyhd" tvg-logo="https://res.cloudinary.com/aenetworks/image/upload/v1/logo_4_zds74r", History Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="outdoorhd" tvg-logo="https://img.vtvprime.vn/Hc9kuCTrQXumIfDEyzqp6qt19QBBTPbLlruig6F7LfE/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOGQxODYyZjYtYTM2NS00NGNmLWFjZmUtOTllN2ZmYTliYzMwLnBuZw==.png", Outdoor Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=216
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="davinci" tvg-logo="https://img.vtvprime.vn/TeTHUc87TdJDiDarxVy_9Xyat93J4P-Eau7hVIrJ5CI/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMWNmOTM5YjMtOGFlZS00ZDg5LTk1N2ItOTQxNmQ2MzNjNDU1LnBuZw==.png", Da Vinci
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="kix" tvg-logo="https://img.vtvprime.vn/ppdwkxhVs3oZV4SDS2zVomkuqFESpLNekyHFYw6yuzo/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMmRjYzBhNDItOGFjNC00YjI1LWIyYTItNzllNzJhNDQzMGIyLnBuZw==.png", KIX
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="bbcamerica" tvg-logo="https://cdn.cookielaw.org/logos/9ba987d0-417d-4455-ab02-764b3dc7f03e/4b6d0ed8-971c-438f-8398-457d37be067a/fd3506e7-0db2-4045-8721-d41a4c90b66c/bbca-v2_2.png", BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="NBSTV.kr" tvg-logo="https://www.inbs.co.kr/images/common/ico_gnb_title.png", NBS
+https://media.joycorp.co.kr:4443/live/live_720p/chunklist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png", CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tennischannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnbc" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/CNBC.png/revision/latest?cb=20251217074431&path-prefix=vi", CNBC
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="hgtv" tvg-logo="https://img.vtvprime.vn/_BZFy9dYVpF2ZQaUt4Ps3JO0SJxPKr5IPL6HcQHcdAg/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvODM0ZDRlZmItZjk1NC00NmVlLThjMjctMmMzNTRjMGJjNjFhLnBuZw==.png", HGTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="afnhd" tvg-logo="https://img.vtvprime.vn/mgu3JgfKsLkVy6qqgN7U3kZSTZjonfpw2qZzU2Xct48/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDJkMDQzZjUtNTBjNS00YzRhLTk1YWQtNzE3MGQ5MDg0OWUzLnBuZw==.png", Asian Food Network
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh12.vtvprime.vn/hls/AFC/03.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="arirang" tvg-logo="https://img.vtvprime.vn/lN2OAu85CLrie1I6sizfedNPj6ICEaXS3m8v_bzmrU0/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNzFkMjcyZmItZDBmZS00MTVkLTk5YzktMzczMjBmMDI5NDhlLnBuZw==.png", Arirang
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="kbsworld" tvg-logo="https://img.vtvprime.vn/9NuVWzSzDlTL8F7WqVNv1KkyXs6ruEUXAo86TZ2Mmhk/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZGY0NmQzMGYtNjBiNS00NzUwLWE3NDMtNDA5OTY5ZThhMzY2LnBuZw==.png", KBS World
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="france24eng" tvg-logo="https://img.vtvprime.vn/PAL3Sen5uB-4tc1wxU5r7tFcWWnKiuzpH3VbSRjq2I0/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYTMwYjBlMGItNWI2ZS00NWEyLWI2ZDctOTFiZmIxMTA0YzU3LnBuZw==.png", France 24 English
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tv5monde" tvg-logo="https://api.tv5monde.com/resources/consent/images/LOGO_TV5MONDE_BLEU.png", TV5MONDE
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="nhkworld" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch328_170_122", NHK World Japan
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="NHKWorldPremium.jp" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch711_170_122", NHK World Premium
+https://cdn3.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://www.etv.mn/wp-content/uploads/2021/08/etv-logo-1.png", ETV
+https://cdn1.skygo.mn/live/disk1/ETV/HLS-FTA/ETV.m3u8
 
-#EXTINF:-1 group-title="📻 | Phát thanh" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png", VOH AM 610Khz
-https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-#EXTINF:-1 group-title="📻 | Phát thanh" tvg-logo="https://dug0nmhkbevod.vcdn.cloud/MAM/OVP/Image/Playlist/2022/11/04/logo/04112022110831/110832_z3846211079342_aa59839f019726c4b788c89d47e06ff5.jpg", Hà Nội FM 90
-http://14.162.146.90:8000/HANOI90
-#EXTINF:-1 group-title="📻 | Phát thanh" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkwAK2eT0Q5301RhS1ysWucgjQG9IHUQjlEPQho-LudlUPhZyCILzER-9IziMJFj13u8Nhnrn0L6_Px_D60jssiG426u8jxE0o_Jrukur5SP-CDxYm8YVPeMVFQm5tu2LQ91Q6duF6vQsgFmGvVrKzs1jFqvcEvR82dPqqrIwPzEa7pkgL6NSeqHfL9cYK/s1118/bandicam%202024-02-04%2018-28-15-042.jpg", LHQ Play
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="vinhlong1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest?cb=20220410232326&path-prefix=vi", TH Vĩnh Long 1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="vinhlong2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/THVL2_logo.png/revision/latest?cb=20230219024829&path-prefix=vi", TH Vĩnh Long 2
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="vinhlong3hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/THVL3_logo.png/revision/latest?cb=20220505105258&path-prefix=vi", TH Vĩnh Long 3
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="vinhlong4hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/THVL4_logo.png/revision/latest?cb=20220505105305&path-prefix=vi", TH Vĩnh Long 4
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="vinhlong5hd" tvg-logo="https://www.thvl.vn/wp-content/themes/thvl-2025/imgs/thvl5.png", TH Vĩnh Long 5
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hanoi1" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/5I28SE4GOB7V.png", TH Hà Nội 1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hanoi2" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", TH Hà Nội 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hue" tvg-logo="https://huetv.com.vn/uploads/static/Banner/LogoHueTV.png", TH Thành phố Huế
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=63
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="danang1" tvg-logo="https://dnrt.vn/Images/dnrt1.png", TH Đà Nẵng 1
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="danang2" tvg-logo="https://dnrt.vn/Images/dnrt2.png", TH Đà Nẵng 2
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho1" tvg-logo="https://sdtv.vn/wp-content/uploads/2022/12/Logo-BaoPTTH-Can-Tho-Kenh-1-01092025.png", TH Cần Thơ 1
+https://live.canthotv.vn/live/tv/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho2" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c0/C%E1%BA%A7nTh%C6%A12.png/revision/latest?cb=20250912112238&path-prefix=vi", TH Cần Thơ 2
+https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho3" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/C%E1%BA%A7nTh%C6%A13.png/revision/latest?cb=20250912112412&path-prefix=vi", TH Cần Thơ 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=84
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="sonla" tvg-logo="https://media.sonlatv.vn/upload/files/logo/logo_footer.png", TH Sơn La
+https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="tuyenquang" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TTV_Tuyen_Quang.png/revision/latest?cb=20220301071325&path-prefix=vi", TH Tuyên Quang
+https://streaming.tuyenquangtv.vn/channel/tuyenquang/chunks.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="thainguyen" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png?v=2.620250623134619", TH Thái Nguyên
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=88
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="bacninh" tvg-logo="https://bacninhtv.vn/upload/files/logo_btv.png", TH Bắc Ninh
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh34.vtvprime.vn/hls/BACGIANGTV/03.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="phutho" tvg-logo="https://phuthotv.vn/sites/all/themes/custom_theme/images/logo.png", TH Phú Thọ
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh34.vtvprime.vn/hls/PHUTHOTV/03.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hungyen" tvg-logo="https://img.vtvprime.vn/M96ekI4gpf9WUxpqAmy1nllgMjfYwdKRfYRifrwCxUk/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYjg2YTM1ZGMtYWYzNS00MGNmLWE2ZjUtMWI1YmE3YTY2NTUxLnBuZw==.png", TH Hưng Yên
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh12.vtvprime.vn/hls/HUNGYENTV/03.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="ninhbinh" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png", TH Ninh Bình
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangninh1" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu1.png", TH Quảng Ninh 1
+https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangninh3" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu2.png", TH Quảng Ninh 3
+https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hatinh" tvg-logo="https://img.vtvprime.vn/sj3wehm3IJzy6pAl1Lnwr7g1HfiVTwQCI3KbasEabbg/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOTM5NmRlZmMtZTJiYy00MjNhLWJjYzUtNTdmMTcyMWI3NTJmLnBuZw==.png", TH Hà Tĩnh
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://liveh34.vtvprime.vn/hls/HATINH/03.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="daklak" tvg-logo="https://media.drt.vn/upload/files/image/LOGO_DRT_HD_2023-2.png", TH Đắk Lắk
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="gialai" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/GTV_Gia_Lai.png/revision/latest?cb=20250729030224&path-prefix=vi", TH Gia Lai
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangngai" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/QNgTV1_logo.png", TH Quảng Ngãi
+https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="lamdong1" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/LTV1_Lam_Dong_logo.png/revision/latest?cb=20250927092436&path-prefix=vi", TH Lâm Đồng 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=69
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="lamdong2" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/LTV2_Lam_Dong_logo.png/revision/latest?cb=20250927094344&path-prefix=vi", TH Lâm Đồng 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=45
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="lamdong3" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/LTV3_Lam_Dong_logo.png/revision/latest?cb=20250928071648&path-prefix=vi", TH Lâm Đồng 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=50
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="khanhhoa" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d8/KTV_2026.png/revision/latest?cb=20260101114303&path-prefix=vi", TH Khánh Hòa
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=65
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="khanhhoa1" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4f/KTV1_2026.png/revision/latest?cb=20260101114305&path-prefix=vi", TH Khánh Hòa 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=76
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="tayninh1" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/TN_TayNinhTV_logo.png/revision/latest?cb=20251224141706&path-prefix=vi", TH Tây Ninh
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://seagames33.quanlehong539.workers.dev
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="angiang1" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/ATV1_logo_09-07-2025.png/revision/latest?cb=20250823041324&path-prefix=vi", TH An Giang 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=66
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="angiang2" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/ATV2_logo_09-07-2025.png/revision/latest?cb=20250823043314&path-prefix=vi", TH An Giang 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=35
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="angiang3" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/ATV3_logo_09-07-2025.png/revision/latest?cb=20251109111209&path-prefix=vi", TH An Giang 3
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongnai1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/%C4%90NNRTV1.png/revision/latest?cb=20250902053416&path-prefix=vi", TH Đồng Nai 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=53
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongthap2" tvg-logo="https://sdtv.vn/wp-content/uploads/2022/12/k33-10.png", TH Đồng Tháp 2
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="binhduong1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/HTV1.png", HTV1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="anvienhd" tvg-logo="https://bchannel.vn/wp-content/uploads/bfi_thumb/Logo-BTV9-Bchannelv2-q68qnhi49jh16dabrhrd7kq9yll6tl96rwgoyv34e8.png", BTV9
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hitv" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_640_360.png", HiTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=32
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="youtv" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/YouTV_logo.png/revision/latest?cb=20201010125200&path-prefix=vi", YouTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=31
+
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov1" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png", VOV1
+https://stream.vovmedia.vn/vov1
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov2" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov2_2.png", VOV2
+https://stream.vovmedia.vn/vov-2
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov3" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png", VOV3
+https://stream.vovmedia.vn/vov-3
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4tb" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Tây Bắc
+https://stream.vovmedia.vn/vov4tb
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4tb" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Đông Bắc
+https://stream.vovmedia.vn/vov4db
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4mt" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Miền Trung
+https://stream.vovmedia.vn/vov4mt
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4tn" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Tây Nguyên
+https://stream.vovmedia.vn/vov4tn
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4hcm" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Hồ Chí Minh
+https://stream.vovmedia.vn/vov4hcm
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4scl" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Đồng bằng Sông Cửu Long
+https://stream.vovmedia.vn/vov4dbscl
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov5" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png", VOV5
+https://stream.vovmedia.vn/vov5
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov247" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-en.png", VOV English 24/7
+https://stream.vovmedia.vn/vov247
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgthn" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Hà Nội
+https://stream.vovmedia.vn/vovgt-hn
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgthcm" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Hồ Chí Minh
+https://stream.vovmedia.vn/vovgt-hcm
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgtmekong" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Mekong
+https://stream.vovmedia.vn/vovmekong
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgtduyenhai" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Duyên hải
+https://stream.vovmedia.vn/gtduyenhai
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh610" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/4-094355.png", VOH AM 610 kHz
+https://strm.voh.com.vn/radio/channel2/chunklist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh877" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/3-094355.png", VOH FM 87.7 MHz
+https://strm.voh.com.vn/radio/channel5/chunklist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh925" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/92-5-3-104929.png", VOH-M FM 92-92.5 MHz
+https://strm.voh.com.vn/radio/channel6/chunklist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh956" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/2-094355.png", VOH FM 95.6 MHz
+https://strm.voh.com.vn/radio/channel1/chunklist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh999" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/1-094355.png", VOH FM 99.9 MHz
+https://strm.voh.com.vn/radio/channel3/chunklist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="hanoi90" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/Y2GY5S49YJYF.png", Hà Nội FM90
+https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="hanoi96" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/FLKIC39FURRW.png", Hà Nội FM96
+https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="bbcworldservice" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/BBCWorldService_logo.png", BBC World Service
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_07364996/live/ww/bbc_world_service_news_internet/bbc_world_service_news_internet.isml/bbc_world_service_news_internet-audio%3d48000.norewind.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="sbsradio1" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSRadio1_logo.png", SBS Radio 1
+https://sbs-hls.streamguys1.com/hls/sbs1/playlist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="sbsradio2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSRadio2_logo.png", SBS Radio 2
+https://sbs-hls.streamguys1.com/hls/sbs2/playlist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSRadio3_logo.png", SBS Radio 3
+https://sbs-hls.streamguys1.com/hls/sbs3/playlist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSArabic_logo.png", SBS Arabic
+https://sbs-hls.streamguys1.com/hls/arabic/playlist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSChill_logo.png", SBS Chill
+https://sbs-hls.streamguys1.com/hls/sbschill/playlist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSPopAsia_logo.png", SBS PopAsia
+https://sbs-hls.streamguys1.com/hls/popasia/playlist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSSouthAsian_logo.png", SBS South Asian
+https://sbs-hls.streamguys1.com/hls/popdesi/playlist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.squarespace-cdn.com/content/v1/51a013dee4b0a2a2d2ef73e9/1413118307005-CX960MGTBTHQFDFYDNY4/image-asset.png", NHK World Radio
+https://nhkworld-radio.akamaized.net/hls/live/2115820/nhkworld-radio-rs5/index_rs5.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/HCR_whitelogo.png", Hà Nội Community Radio
+https://ha-noi-community-radio.radiocult.fm/stream
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://kcradio.nl/wp-content/uploads/2024/06/2-480x480.png", KC Radio Mixed in Vietnam
+https://play.wrhradios.com/8014/stream
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.zeno.fm/utorNQJY4T-42EZ76rgUl1OmF3Kx5WJ2axDXCxbyqC8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNmZjZWI3NDYtMzdlNi00YWY3LTliYmMtNzU3NjljYzhhMWQwL2ltYWdlLz91PTE3Njg0ODQ2MTUwMDA.webp", LHQ Play
 https://stream.zeno.fm/vwofath8nz8tv
-#EXTINF:-1 group-title="📻 | Phát thanh" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUQJ845Cu3z-UG0c255pKr9PiFKlhvnhCDD5ammDwMnsywsf2LRdvXDWKrolzM2wy1OBwh_6gxFHhMszZok5nFXwncGWua_b-02HIR7qkwLg8uYAAjhu-OVch1u3aCJ4xok_g4JZcWys-1oh79_Xw9mS5roW7Sv1AbgLsInmXh__pKJ6ZNJ0JgvJRaVk-Z/s600/423542068_1306592243352566_6090991333920788466_n.jpg", NNT1709 Radio
-https://stream.zeno.fm/crwtkeidk9vuv
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://cdn-radiotime-logos.tunein.com/s26182g.png", Little Saigon Radio
+https://stream.zeno.fm/kxynzu2qe7duv
+
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-id="tvbvn" tvg-logo="https://companieslogo.com/img/orig/0511.HK-feb9f53c.png", TVB VN
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://vnatv.com/images/file/rl8wDvfy0QgBAtZn/w278/vnatv573-logo.png", VNA TV
+https://stream-hls.castr.net/671fdee3941829f934e34e15/live_47d4c7f095ae11ef978b436d0f35840c/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-anh-huong-xau-cau-chuyen-jodi-hildebrandt-thumb.jpg", Người Ảnh Hưởng Xấu: Câu Chuyện Jodi Hildebrandt
+https://vip.opstream-short.com/20260105/57729_73a58e07/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/luat-le-cua-jenny-pen-thumb.jpg", Luật Lệ Của Jenny Pen
+https://vip.opstream90.com/20251116/17809_dca7591c/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/chu-re-va-hai-co-dau-thumb.jpg", Chú Rể Và Hai Cô Dâu
+https://vip.opstream90.com/20251107/17109_39a1c9d0/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/su-kien-anh-sang-nui-voi-thumb.jpg", Sự Kiện Ánh Sáng Núi Voi
+https://vip.opstream90.com/20260118/22686_252e3464/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/ranh-gioi-toi-ac-thumb.jpg", Ranh Giới Tội Ác
+https://vip.opstream90.com/20260117/22592_acaf560f/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/nhat-quy-nhi-ma-thu-ba-takagi-treu-roi-yeu-thumb.jpg", Nhất Quỷ Nhì Ma Thứ Ba Takagi: Trêu Rồi Yêu
+https://vip.opstream17.com/20260120/26237_2ae37b9b/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/dich-nhan-kiet-bi-ngan-ky-hoa-thumb.jpg", Thần Thám Địch Nhân Kiệt: Bỉ Ngạn Kỳ Hoa
+https://vip.opstream90.com/20260112/22223_7e4f882d/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/366-ngay-thumb.jpg", 366 Ngày
+https://vip.opstream17.com/20260118/26227_2da535ad/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/khe-uoc-ban-dau-thumb.jpg", Khế Ước Bán Dâu
+https://vip.opstream90.com/20260118/22670_de825d79/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/ke-an-hon-thumb.jpg", Kẻ Ăn Hồn
+https://vip.opstream17.com/20240320/2895_5e8950a3/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/minamahal-100-doa-hoa-danh-cho-luna-thumb.jpg", Minamahal: Bách Hoa Dành Cho Luna
+https://vip.opstream10.com/20260110/32276_b12b646e/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/phi-vu-ao-thuat-gia-thumb.jpg", Phi Vụ Ảo Thuật Gia
+https://vip.opstream90.com/20260111/22171_06b0bd7f/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/doi-canh-hy-vong-thumb.jpg", Đôi Cánh Hy Vọng
+https://vip.opstream90.com/20260114/22355_bb599065/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/100-dem-cua-hero-thumb.jpg", 100 Đêm Của Hero
+https://vip.opstream90.com/20260118/22696_04940fad/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/quai-thu-vo-hinh-vung-dat-chet-choc-thumb.jpg", Quái Thú Vô Hình: Vùng Đất Chết Chóc
+https://vip.opstream90.com/20260110/22083_771f0d31/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/loi-thinh-cau-bi-an-2-thumb.jpg", Lời Thỉnh Cầu Bí Ẩn 2
+https://vip.opstream90.com/20260108/21878_1d60e7b5/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/buoc-chan-dung-cam-thumb.jpg", Bước Chân Dũng Cảm
+https://vip.opstream90.com/20260108/21896_093562ae/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/eephus-thumb.jpg", Trận Cuối
+https://vip.opstream90.com/20260108/21897_171a559f/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/hoa-huong-duong-2025-thumb.jpg", Hoa Hướng Dương
+https://vip.opstream90.com/20260108/21898_98132280/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/nhung-nguoi-ta-gap-trong-ky-nghi-thumb.jpg", Những Người Ta Gặp Trong Kỳ Nghỉ
+https://vip.opstream90.com/20260109/21997_7735e310/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/ke-vo-lai-thumb.jpg", Kẻ Vô Lại
+https://vip.opstream90.com/20260108/21888_4e1c697c/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/nam-cuoc-hen-de-yeu-thumb.jpg", Năm Cuộc Hẹn Để Yêu
+https://vip.opstream90.com/20260109/21976_44e2a386/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/dolphin-summer-thumb.jpg", Mùa Hè Cá Heo
+https://vip.opstream90.com/20260108/21906_78dbe27f/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/p77-thumb.jpg", Penthouse 77
+https://vip.opstream17.com/20260109/26213_bb6023f7/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/vong-nhi-cup-be-thumb.jpg", Vong Nhi Cúp Bế
+https://vip.opstream90.com/20260103/21593_aca9d4f9/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/hiep-si-mat-na-dai-chien-dau-truong-sinh-tu-thumb.jpg", Hiệp Sĩ Mặt Nạ Đại Chiến: Đấu Trường Sinh Tử
+https://vip.opstream17.com/20251028/22192_8c97612c/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/toi-and-ac-thumb.jpg", Tội & Ác
+https://vip.opstream12.com/20251028/29269_d77f939c/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/tri-am-nguoi-giu-thoi-gian-thumb.jpg", Tri Âm: Người Giữ Thời Gian
+https://vip.opstream90.com/20251028/16278_a3c1e64a/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/song-sinh-doi-mang-thumb.jpg", Song Sinh Đổi Mạng
+https://vip.opstream90.com/20251024/15995_97fd09fc/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/manh-vo-thien-kien-thumb.jpg", Mảnh Vỡ Thiên Kiến
+https://vip.opstream17.com/20251024/22151_87a3a183/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/anemone-thumb.jpg", Hải Quỳ Nở Hoa
+https://vip.opstream12.com/20251028/29267_1bc96747/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-trung-gian-thumb.jpg", Người Trung Gian
+https://vip.opstream12.com/20251028/29268_f843074d/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/ninja-an-than-thumb.jpg", Nhẫn Giả Ẩn Thân
+https://vip.opstream12.com/20251029/29349_be349aae/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/dien-toi-thumb.jpg", Điên Tối
+https://vip.opstream14.com/20220808/19748_f1d7bfa8/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/lat-mat-2015-thumb.jpg", Lật Mặt
+https://vip.opstream90.com/20251028/16262_8b4f4048/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/sac-dep-doi-tra-thumb.jpg", Sắc Đẹp Dối Trá
+https://vip.opstream90.com/20251028/16275_399c8d4d/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/ma-da-thumb.jpg", Ma Da
+https://vip.opstream90.com/20251028/16265_ae714b28/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/babo-cau-chuyen-ve-haftbefehl-thumb.jpg", BABO: Câu Chuyện Về Haftbefehl
+https://vip.opstream90.com/20251029/16378_0f3b2662/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/lat-mat-phim-truong-thumb.jpg", Lật Mặt: Phim Trường
+https://vip.opstream90.com/20251028/16260_314ae9d8/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/nhung-anh-hung-tien-phong-thumb.jpg", Những Anh Hùng Tiên Phong
+https://vip.opstream12.com/20251029/29350_0197fd56/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/lat-mat-ba-chang-khuyet-thumb.jpg", Lật Mặt: Ba Chàng Khuyết
+https://vip.opstream90.com/20251028/16261_4803eb7e/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/coyotes-thumb.jpg", Bầy Sói Vô Lại
+https://vip.opstream90.com/20251029/16398_5939cbe4/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/tam-cam-chuyen-chua-ke-thumb.jpg", Tấm Cám: Chuyện Chưa Kể
+https://vip.opstream90.com/20251028/16276_1ab4eabb/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/cuoc-chien-danh-quyen-nuoi-meo-thumb.jpg", Cuộc Chiến Tranh Nuôi Mèo
+https://vip.opstream10.com/20250822/30232_9b01ea73/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/ban-balled-cua-tay-bac-nho-thumb.jpg", Bản Ballad Của Tay Bạc Nhỏ
+https://vip.opstream90.com/20251029/16419_9a8799e6/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/khong-con-song-sinh-thumb.jpg", Nửa Bóng Cô Liêu
+https://vip.opstream17.com/20251027/22185_a9eff89d/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/cho-cung-dung-so-thumb.jpg", Chó Cưng Đừng Sợ
+https://vip.opstream90.com/20251026/16103_8f5c0167/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/vai-tien-truong-an-thumb.jpg", Vải Tiến Trường An
+https://vip.opstream17.com/20251026/22183_35ca2054/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/suyt-nua-thi-thumb.jpg", Suýt Nữa Thì
+https://vip.opstream90.com/20251025/16054_bb226d51/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/ao-lua-ha-dong-thumb.jpg", Áo Lụa Hà Đông
+https://vip.opstream15.com/20230112/31542_1abb51ac/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/cam-y-ve-luyen-hoa-ky-thumb.jpg", Cẩm Y Vệ: Luyện Hỏa Ký
+https://vip.opstream90.com/20251024/16041_3e49d4ec/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/exit-8-ga-tau-vo-tan-thumb.jpg", Lối Thoát Số 8: Ga Tàu Vô Tận
+https://vip.opstream13.com/20251024/13744_035eb76e/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/ngoi-nha-thuoc-no-thumb.jpg", Ngôi Nhà Thuốc Nổ
+https://vip.opstream90.com/20251024/16024_f6b22303/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/stiller-and-meara-giu-tron-ky-uc-thumb.jpg", Stiller Và Meara: Giữ Trọn Ký Ức
+https://vip.opstream90.com/20251024/16023_09b24f6b/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/nu-vuong-dau-vat-thumb.jpg", Nữ Vương Đấu Vật
+https://vip.opstream90.com/20251115/17730_05a0eed5/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/truoc-gio-yeu-thumb.jpg", Before Sex - Trước Giờ Yêu
+https://vip.opstream90.com/20251028/16279_ae66a054/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/homejack-quartet-thumb.jpg", Bị Jack Vạch Trần
+https://vip.opstream11.com/20231005/48050_d9455db9/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/mua-he-xep-hinh-thumb.jpg", Mùa Hè Xếp Hình
+https://vip.opstream90.com/20260108/21891_598e989a/index.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/en-tu-piel-thumb.jpg", 7 Giờ 20 Mỗi Tuần Một Lần
+https://vip.opstream12.com/20260116/31956_88083dbf/index.m3u8
+
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hoa-thom-kieu-hanh-thumb.jpg", Hoa Thơm Kiêu Hãnh (Tập 1)
+https://play.ayaya-kana.id.vn/file/ayaya-kana/kaoru-hana-ayaya-kana-1/kaoru-hana-ayaya-kana-1.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hoa-thom-kieu-hanh-thumb.jpg", Hoa Thơm Kiêu Hãnh (Tập 2)
+https://play.ayaya-kana.id.vn/file/ayaya-kana/kaoru-hana-ayaya-kana-2/kaoru-hana-ayaya-kana-2.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hoa-thom-kieu-hanh-thumb.jpg", Hoa Thơm Kiêu Hãnh (Tập 3)
+https://play.ayaya-kana.id.vn/file/ayaya-kana/kaoru-hana-ayaya-kana-3/kaoru-hana-ayaya-kana-3.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hoa-thom-kieu-hanh-thumb.jpg", Hoa Thơm Kiêu Hãnh (Tập 4)
+https://play.ayaya-kana.id.vn/file/ayaya-kana/kaoru-hana-ayaya-kana-4/kaoru-hana-ayaya-kana-4.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hoa-thom-kieu-hanh-thumb.jpg", Hoa Thơm Kiêu Hãnh (Tập 5)
+https://play.ayaya-kana.id.vn/file/ayaya-kana/kaoru-hana-ayaya-kana-5/kaoru-hana-ayaya-kana-5.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hoa-thom-kieu-hanh-thumb.jpg", Hoa Thơm Kiêu Hãnh (Tập 6)
+https://play.ayaya-kana.id.vn/file/ayaya-kana/kaoru-hana-ayaya-kana-6/kaoru-hana-ayaya-kana-6.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hoa-thom-kieu-hanh-thumb.jpg", Hoa Thơm Kiêu Hãnh (Tập 7)
+https://play.ayaya-kana.id.vn/file/ayaya-kana/kaoru-hana-ayaya-kana-7/kaoru-hana-ayaya-kana-7.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hoa-thom-kieu-hanh-thumb.jpg", Hoa Thơm Kiêu Hãnh (Tập 8)
+https://play.ayaya-kana.id.vn/file/ayaya-kana/kaoru-hana-ayaya-kana-8/kaoru-hana-ayaya-kana-8.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hoa-thom-kieu-hanh-thumb.jpg", Hoa Thơm Kiêu Hãnh (Tập 9)
+https://play.ayaya-kana.id.vn/file/ayaya-kana/kaoru-hana-ayaya-kana-9/kaoru-hana-ayaya-kana-9.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hoa-thom-kieu-hanh-thumb.jpg", Hoa Thơm Kiêu Hãnh (Tập 10)
+https://play.ayaya-kana.id.vn/file/ayaya-kana/kaoru-hana-ayaya-kana-10/kaoru-hana-ayaya-kana-10.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hoa-thom-kieu-hanh-thumb.jpg", Hoa Thơm Kiêu Hãnh (Tập 11)
+https://play.ayaya-kana.id.vn/file/ayaya-kana/kaoru-hana-ayaya-kana-11/kaoru-hana-ayaya-kana-11.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hoa-thom-kieu-hanh-thumb.jpg", Hoa Thơm Kiêu Hãnh (Tập 12)
+https://play.ayaya-kana.id.vn/file/ayaya-kana/kaoru-hana-ayaya-kana-12/kaoru-hana-ayaya-kana-12.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hoa-thom-kieu-hanh-thumb.jpg", Hoa Thơm Kiêu Hãnh (Tập 13)
+https://play.ayaya-kana.id.vn/file/ayaya-kana/kaoru-hana-ayaya-kana-13/kaoru-hana-ayaya-kana-13.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tet-o-lang-dia-nguc-thumb.jpg", Tết Ở Làng Địa Ngục (Tập 1)
+https://vip.opstream16.com/20231026/36104_669acff5/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tet-o-lang-dia-nguc-thumb.jpg", Tết Ở Làng Địa Ngục (Tập 2)
+https://vip.opstream16.com/20231026/36105_43a4fc32/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tet-o-lang-dia-nguc-thumb.jpg", Tết Ở Làng Địa Ngục (Tập 3)
+https://vip.opstream11.com/20231030/48693_3ace7543/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tet-o-lang-dia-nguc-thumb.jpg", Tết Ở Làng Địa Ngục (Tập 4)
+https://vip.opstream11.com/20231031/48697_e78d107e/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tet-o-lang-dia-nguc-thumb.jpg", Tết Ở Làng Địa Ngục (Tập 5)
+https://vip.opstream16.com/20231106/36972_441542e6/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tet-o-lang-dia-nguc-thumb.jpg", Tết Ở Làng Địa Ngục (Tập 6)
+https://vip.opstream11.com/20231107/48984_26ba4a0d/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tet-o-lang-dia-nguc-thumb.jpg", Tết Ở Làng Địa Ngục (Tập 7)
+https://vip.opstream16.com/20231113/37402_4550259b/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tet-o-lang-dia-nguc-thumb.jpg", Tết Ở Làng Địa Ngục (Tập 8)
+https://vip.opstream16.com/20231115/37449_1168666e/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tet-o-lang-dia-nguc-thumb.jpg", Tết Ở Làng Địa Ngục (Tập 9)
+https://vip.opstream11.com/20231121/49376_b9532f35/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tet-o-lang-dia-nguc-thumb.jpg", Tết Ở Làng Địa Ngục (Tập 10)
+https://vip.opstream11.com/20231122/49444_86d50ff2/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tet-o-lang-dia-nguc-thumb.jpg", Tết Ở Làng Địa Ngục (Tập 11)
+https://vip.opstream16.com/20231127/38189_033f511c/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tet-o-lang-dia-nguc-thumb.jpg", Tết Ở Làng Địa Ngục (Tập 12)
+https://vip.opstream16.com/20231128/38297_198aa9ec/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 1)
+https://vip.opstream90.com/20251223/20784_a364e18a/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 2)
+https://vip.opstream90.com/20251223/20785_ad349260/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 3)
+https://vip.opstream90.com/20251223/20786_cc5a8e3b/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 4)
+https://vip.opstream90.com/20251224/20862_5ad8e560/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 5)
+https://vip.opstream90.com/20251224/20864_1e81d9dd/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 6)
+https://vip.opstream90.com/20251225/20910_8f0ba280/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 7)
+https://vip.opstream90.com/20251225/20911_6b967fe2/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 8)
+https://vip.opstream90.com/20251226/20992_0b025724/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 9)
+https://vip.opstream90.com/20251226/20993_a3406b19/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 10)
+https://vip.opstream90.com/20251230/21353_0d05195d/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 11)
+https://vip.opstream90.com/20251230/21354_9426cdfe/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 12)
+https://vip.opstream90.com/20251230/21355_23755d10/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 13)
+https://vip.opstream90.com/20251230/21356_4b698ccb/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 14)
+https://vip.opstream-short.com/20260105/57740_9578aa9c/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 15)
+https://vip.opstream-short.com/20260105/57741_811f58cb/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 16)
+https://vip.opstream90.com/20260106/21802_fb3638b8/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 17)
+https://vip.opstream90.com/20260106/21803_4bd2907c/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 18)
+https://vip.opstream90.com/20260107/21850_694bb32b/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 19)
+https://vip.opstream90.com/20260107/21851_fe39765e/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 20)
+https://vip.opstream90.com/20260108/21943_eb40887d/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 21)
+https://vip.opstream90.com/20260108/21944_1ffef630/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 22)
+https://vip.opstream90.com/20260112/22247_f69ca3d1/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 23)
+https://vip.opstream90.com/20260112/22248_c647f2a6/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/ky-tich-2025-thumb.jpg", Kỳ Tích (Tập 24)
+https://vip.opstream90.com/20260120/22808_1e59f45f/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tieng-yeu-nay-anh-dich-duoc-khong-thumb.jpg", Tiếng Yêu Này Anh Dịch Được Không? (Tập 1)
+https://vip.opstream90.com/20260116/22574_4eb9407d/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tieng-yeu-nay-anh-dich-duoc-khong-thumb.jpg", Tiếng Yêu Này Anh Dịch Được Không? (Tập 2)
+https://vip.opstream90.com/20260116/22575_026947ba/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tieng-yeu-nay-anh-dich-duoc-khong-thumb.jpg", Tiếng Yêu Này Anh Dịch Được Không? (Tập 3)
+https://vip.opstream90.com/20260116/22576_a5311ea2/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tieng-yeu-nay-anh-dich-duoc-khong-thumb.jpg", Tiếng Yêu Này Anh Dịch Được Không? (Tập 4)
+https://vip.opstream90.com/20260116/22577_3d5ac5d0/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tieng-yeu-nay-anh-dich-duoc-khong-thumb.jpg", Tiếng Yêu Này Anh Dịch Được Không? (Tập 5)
+https://vip.opstream90.com/20260116/22578_8e6a4217/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tieng-yeu-nay-anh-dich-duoc-khong-thumb.jpg", Tiếng Yêu Này Anh Dịch Được Không? (Tập 6)
+https://vip.opstream90.com/20260116/22579_599b61ce/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tieng-yeu-nay-anh-dich-duoc-khong-thumb.jpg", Tiếng Yêu Này Anh Dịch Được Không? (Tập 7)
+https://vip.opstream90.com/20260116/22580_972a8c3b/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tieng-yeu-nay-anh-dich-duoc-khong-thumb.jpg", Tiếng Yêu Này Anh Dịch Được Không? (Tập 8)
+https://vip.opstream90.com/20260116/22581_2393d7a6/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tieng-yeu-nay-anh-dich-duoc-khong-thumb.jpg", Tiếng Yêu Này Anh Dịch Được Không? (Tập 9)
+https://vip.opstream90.com/20260116/22582_3e30c0a4/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tieng-yeu-nay-anh-dich-duoc-khong-thumb.jpg", Tiếng Yêu Này Anh Dịch Được Không? (Tập 10)
+https://vip.opstream90.com/20260116/22583_94d231f1/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tieng-yeu-nay-anh-dich-duoc-khong-thumb.jpg", Tiếng Yêu Này Anh Dịch Được Không? (Tập 11)
+https://vip.opstream90.com/20260116/22584_266e3c74/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tieng-yeu-nay-anh-dich-duoc-khong-thumb.jpg", Tiếng Yêu Này Anh Dịch Được Không? (Tập 12)
+https://vip.opstream90.com/20260116/22585_b6d7a951/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 1)
+https://vip.opstream90.com/20251015/15093_5989623d/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 2)
+https://vip.opstream90.com/20251021/15714_bd8dbca5/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 3)
+https://vip.opstream90.com/20251102/16701_cea64a88/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 4)
+https://vip.opstream90.com/20251104/16833_b1553ff2/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 5)
+https://vip.opstream90.com/20251112/17380_e9cb54cb/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 6)
+https://vip.opstream90.com/20251118/17997_e36c7276/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 7)
+https://vip.opstream90.com/20251125/18483_41b182cd/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 8)
+https://vip.opstream90.com/20251202/19084_94b21f11/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 9)
+https://vip.opstream90.com/20251209/19663_1b2d6b10/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 10)
+https://vip.opstream90.com/20251216/20290_fdba1a7e/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 11)
+https://vip.opstream90.com/20251223/20846_9955f2f0/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 12)
+https://vip.opstream90.com/20251230/21337_bc6e1826/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 13)
+https://vip.opstream90.com/20260106/21804_e78e39ea/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 1)
+https://vip.opstream90.com/20251019/15414_7b7324f8/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 2)
+https://vip.opstream90.com/20251026/16146_b996f960/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 3)
+https://vip.opstream90.com/20251102/16693_2e970f99/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 4)
+https://vip.opstream90.com/20251109/17222_5e38d982/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 5)
+https://vip.opstream90.com/20251116/17823_2e565cde/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 6)
+https://vip.opstream90.com/20251130/18845_e71d7330/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 7)
+https://vip.opstream90.com/20251130/18846_57f5b6b5/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 8)
+https://vip.opstream90.com/20251207/19469_0138fa79/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 9)
+https://vip.opstream90.com/20251214/20125_9df41c35/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 10)
+https://vip.opstream90.com/20251228/21153_235173eb/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 11)
+https://vip.opstream90.com/20260104/21691_006b9646/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 1)
+https://vip.opstream90.com/20251009/14560_389044ee/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 2)
+https://vip.opstream90.com/20251010/14605_ab11f404/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 3)
+https://vip.opstream90.com/20251016/15135_8856638d/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 4)
+https://vip.opstream90.com/20251017/15274_45d5c438/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 5)
+https://vip.opstream90.com/20251022/15830_d4f00c07/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 6)
+https://vip.opstream90.com/20251024/15930_87722510/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 7)
+https://vip.opstream90.com/20251106/16926_521eae94/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 8)
+https://vip.opstream90.com/20251107/17033_fbc4bc53/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 9)
+https://vip.opstream90.com/20251113/17447_cc0c490a/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 10)
+https://vip.opstream90.com/20251114/17654_68cc84f0/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 11)
+https://vip.opstream90.com/20251120/18056_7aaba5f3/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 12)
+https://vip.opstream90.com/20251120/18131_2635749c/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 13)
+https://vip.opstream90.com/20251126/18538_6f18c1b7/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 14)
+https://vip.opstream90.com/20251128/18620_89da20a8/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 15)
+https://vip.opstream90.com/20251203/19141_f46a7537/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 16)
+https://vip.opstream90.com/20251204/19246_ba855911/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 17)
+https://vip.opstream90.com/20251211/19738_a1231cf8/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 18)
+https://vip.opstream90.com/20251212/19918_3f3689f1/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 19)
+https://vip.opstream90.com/20251218/20400_b1aaf082/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 20)
+https://vip.opstream90.com/20251218/20468_d24ca82b/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 21)
+https://vip.opstream90.com/20251224/20903_f687a4f1/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 22)
+https://vip.opstream90.com/20251225/20973_58369e57/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 23)
+https://vip.opstream90.com/20260108/21860_b12b9516/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 24)
+https://vip.opstream90.com/20260109/21963_46c85a6d/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (Tập 1)
+https://vip.opstream90.com/20260103/21631_4cbbd977/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (Tập 2)
+https://vip.opstream90.com/20260103/21632_ce7b63c9/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (Tập 3)
+https://vip.opstream90.com/20260103/21633_077efd55/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (Tập 4)
+https://vip.opstream90.com/20260103/21634_d543ca8a/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (Tập 5)
+https://vip.opstream90.com/20260103/21635_14bf6dce/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (Tập 6)
+https://vip.opstream90.com/20260103/21636_4b12d117/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (Tập 7)
+https://vip.opstream90.com/20260103/21637_c10d35fa/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 1)
+https://vip.opstream90.com/20260103/21611_934307c5/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 2)
+https://vip.opstream90.com/20260103/21612_dcbe4be7/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 3)
+https://vip.opstream90.com/20260103/21613_1a01b448/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 4)
+https://vip.opstream90.com/20260103/21614_4717c244/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 5)
+https://vip.opstream90.com/20260103/21615_8206a42a/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 6)
+https://vip.opstream90.com/20260103/21616_32cd0b3c/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 7)
+https://vip.opstream90.com/20260103/21617_86ec2b20/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 8)
+https://vip.opstream90.com/20260103/21618_bd578998/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 9)
+https://vip.opstream90.com/20260103/21619_e8328277/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 10)
+https://vip.opstream90.com/20260103/21620_895b6af6/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 11)
+https://vip.opstream90.com/20260103/21621_9328494e/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 12)
+https://vip.opstream90.com/20260103/21622_56e2be5e/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 1)
+https://vip.opstream12.com/20251023/29069_ec4ecf2f/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 2)
+https://vip.opstream12.com/20251023/29070_b76f4e72/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 3)
+https://vip.opstream12.com/20251023/29071_ba935371/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 4)
+https://vip.opstream12.com/20251023/29072_ed5b4ad2/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 5)
+https://vip.opstream12.com/20251023/29073_c8443b62/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 6)
+https://vip.opstream12.com/20251023/29074_e3030406/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 7)
+https://vip.opstream12.com/20251023/29075_b025330e/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 8)
+https://vip.opstream12.com/20251023/29076_744c7571/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 9)
+https://vip.opstream12.com/20251023/29077_0853de1f/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 10)
+https://vip.opstream12.com/20251023/29078_3d07ea96/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 11)
+https://vip.opstream12.com/20251023/29079_be37636f/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 12)
+https://vip.opstream12.com/20251023/29080_1721f00a/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 13)
+https://vip.opstream12.com/20251023/29081_d17c5e09/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 14)
+https://vip.opstream12.com/20251023/29082_2f3b82f3/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 15)
+https://vip.opstream12.com/20251023/29083_80f5c854/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 16)
+https://vip.opstream12.com/20251023/29084_6121a327/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 17)
+https://vip.opstream12.com/20251023/29085_967e9762/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 18)
+https://vip.opstream12.com/20251023/29086_b2a4e73b/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 19)
+https://vip.opstream12.com/20251023/29087_8cd29808/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 20)
+https://vip.opstream12.com/20251023/29088_6bd2b55c/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 21)
+https://vip.opstream12.com/20251023/29089_d2cc6063/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 22)
+https://vip.opstream12.com/20251023/29090_b8a28def/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 23)
+https://vip.opstream12.com/20251023/29091_59a973ad/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 24)
+https://vip.opstream12.com/20251023/29092_2ad36b66/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 25)
+https://vip.opstream12.com/20251023/29093_afb38522/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 26)
+https://vip.opstream12.com/20251023/29094_ebd8ef6c/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 27)
+https://vip.opstream12.com/20251023/29095_e6bbe250/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 28)
+https://vip.opstream12.com/20251023/29096_19317b84/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 29)
+https://vip.opstream12.com/20251023/29097_0a9e30ce/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 30)
+https://vip.opstream12.com/20251023/29098_85ad02a7/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 31)
+https://vip.opstream12.com/20251023/29099_3540a005/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 32)
+https://vip.opstream12.com/20251023/29100_ac9dab4e/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 33)
+https://vip.opstream12.com/20251023/29101_0c61127c/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 34)
+https://vip.opstream12.com/20251023/29102_d1f6b0f2/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 35)
+https://vip.opstream12.com/20251023/29103_d6181e24/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 36)
+https://vip.opstream12.com/20251023/29104_f970d678/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 37)
+https://vip.opstream12.com/20251023/29105_38e68b65/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 38)
+https://vip.opstream12.com/20251023/29106_cdbb5001/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 39)
+https://vip.opstream12.com/20251023/29107_301bf48c/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 40)
+https://vip.opstream12.com/20251023/29108_7921d903/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 1)
+https://vip.opstream10.com/20251014/30631_68272966/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 2)
+https://vip.opstream10.com/20251014/30632_4e12a643/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 3)
+https://vip.opstream10.com/20251014/30633_4297ef5f/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 4)
+https://vip.opstream10.com/20251014/30634_cb4342a6/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 5)
+https://vip.opstream10.com/20251014/30635_e2466f2c/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 6)
+https://vip.opstream10.com/20251014/30636_f1f49699/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 7)
+https://vip.opstream10.com/20251014/30637_7fbaa471/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 8)
+https://vip.opstream10.com/20251014/30638_71dd874f/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 9)
+https://vip.opstream10.com/20251015/30649_58589b2f/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 10)
+https://vip.opstream10.com/20251015/30650_33f68c58/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 11)
+https://vip.opstream10.com/20251016/30659_4c563732/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 12)
+https://vip.opstream10.com/20251016/30660_9b35d1de/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 13)
+https://vip.opstream10.com/20251017/30673_cb01a902/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 14)
+https://vip.opstream10.com/20251017/30674_2281e4a2/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 15)
+https://vip.opstream10.com/20251018/30682_740c8706/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 16)
+https://vip.opstream10.com/20251018/30683_8b56c8b8/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 17)
+https://vip.opstream10.com/20251019/30691_57c0ef6c/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 18)
+https://vip.opstream10.com/20251019/30692_a470e5d8/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 19)
+https://vip.opstream10.com/20251020/30699_34ce78b2/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 20)
+https://vip.opstream10.com/20251020/30700_5201cbd6/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 21)
+https://vip.opstream10.com/20251021/30725_dcb11c87/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 22)
+https://vip.opstream10.com/20251021/30726_ba368424/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 23)
+https://vip.opstream10.com/20251022/30740_f4556722/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 24)
+https://vip.opstream10.com/20251022/30741_9ffc7855/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 25)
+https://vip.opstream10.com/20251023/30756_d3e2fe4a/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 26)
+https://vip.opstream10.com/20251023/30757_906bfeb4/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 27)
+https://vip.opstream10.com/20251024/30786_5f0d5763/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 28)
+https://vip.opstream10.com/20251024/30787_2c4a5c8a/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 29)
+https://vip.opstream10.com/20251027/30811_b54732be/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 30)
+https://vip.opstream10.com/20251027/30812_5c1917d0/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 1)
+https://vip.opstream12.com/20260119/32270_def35ca4/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 2)
+https://vip.opstream12.com/20260119/32271_6508b3f4/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 3)
+https://vip.opstream12.com/20260119/32272_dc70dcd4/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 4)
+https://vip.opstream12.com/20260119/32273_01065cc1/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 5)
+https://vip.opstream12.com/20260119/32274_d38446cc/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 6)
+https://vip.opstream12.com/20260119/32275_4c9f17e0/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 7)
+https://vip.opstream12.com/20260119/32276_b12b646e/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 8)
+https://vip.opstream12.com/20260119/32277_199a323c/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 9)
+https://vip.opstream12.com/20260119/32278_8e1ba2fa/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 10)
+https://vip.opstream12.com/20260119/32279_f4667a2f/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 11)
+https://vip.opstream12.com/20260119/32280_c18329a8/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 12)
+https://vip.opstream12.com/20260119/32281_3eb52381/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 13)
+https://vip.opstream12.com/20260119/32282_49d9a40d/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 14)
+https://vip.opstream12.com/20260119/32283_a3acb1a5/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 15)
+https://vip.opstream12.com/20260119/32284_285c4442/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 16)
+https://vip.opstream12.com/20260119/32285_1e4e3549/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 17)
+https://vip.opstream12.com/20260119/32286_2a44fc01/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 18)
+https://vip.opstream12.com/20260119/32287_358680ef/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 19)
+https://vip.opstream12.com/20260119/32288_68f8b844/index.m3u8
+#EXTINF:-1 group-title="PHIM BỘ" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-quan-ly-khach-san-thumb.jpg", Người Quản Lý Khách Sạn (Tập 20)
+https://vip.opstream12.com/20260119/32289_b114906b/index.m3u8
