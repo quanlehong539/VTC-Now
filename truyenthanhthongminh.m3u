@@ -19,6 +19,8 @@ http://sohoa.truyenthanhthongminh.vn/daituyannam.m3u
 http://sohoa.truyenthanhthongminh.vn/daixaoloan.m3u
 #EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", daixasonthanh
 http://sohoa.truyenthanhthongminh.vn/daixasonthanh.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", fmdongthap
+http://sohoa.truyenthanhthongminh.vn/fmdongthap.m3u
 #EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", fmthanhphu
 http://sohoa.truyenthanhthongminh.vn/fmthanhphu.m3u
 #EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", gocongtay
@@ -27,8 +29,6 @@ http://sohoa.truyenthanhthongminh.vn/gocongtay.m3u
 http://sohoa.truyenthanhthongminh.vn/hoiandonglapvo.m3u
 #EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", hongdan
 http://sohoa.truyenthanhthongminh.vn/hongdan.m3u
-#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", htbi.xabinhthanh
-http://sohoa.truyenthanhthongminh.vn/htbi.xabinhthanh.m3u
 #EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", hthoilai
 http://sohoa.truyenthanhthongminh.vn/hthoilai.m3u
 #EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", htmi.xamydong
@@ -39,14 +39,12 @@ http://sohoa.truyenthanhthongminh.vn/htmi.xatannhuandong.m3u
 http://sohoa.truyenthanhthongminh.vn/htmi.xathanhmy.m3u
 #EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", htng.xaphucuong
 http://sohoa.truyenthanhthongminh.vn/htng.xaphucuong.m3u
-#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", htng.xaphuninh
-http://sohoa.truyenthanhthongminh.vn/htng.xaphuninh.m3u
 #EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", hungha
 http://sohoa.truyenthanhthongminh.vn/hungha.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", huongchuhuongtra
+http://sohoa.truyenthanhthongminh.vn/huongchuhuongtra.m3u
 #EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", huyenanphu
 http://sohoa.truyenthanhthongminh.vn/huyenanphu.m3u
-#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", huyencauke
-http://sohoa.truyenthanhthongminh.vn/huyencauke.m3u
 #EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", huyendakrlap
 http://sohoa.truyenthanhthongminh.vn/huyendakrlap.m3u
 #EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", huyenlongmy
@@ -73,13 +71,61 @@ http://sohoa.truyenthanhthongminh.vn/longkhanhb.m3u
 http://sohoa.truyenthanhthongminh.vn/longthuan.m3u
 #EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", mocchau
 http://sohoa.truyenthanhthongminh.vn/mocchau.m3u
-#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", mth
-http://sohoa.truyenthanhthongminh.vn/mth.m3u
-#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", myanhungblapvodongthap
-http://sohoa.truyenthanhthongminh.vn/myanhungblapvodongthap.m3u
 #EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", nuithanhqna
 http://sohoa.truyenthanhthongminh.vn/nuithanhqna.m3u
 #EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", phongmydongthap
 http://sohoa.truyenthanhthongminh.vn/phongmydongthap.m3u
 #EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", phuloc
 http://sohoa.truyenthanhthongminh.vn/phuloc.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", phuongthotnot
+http://sohoa.truyenthanhthongminh.vn/phuongthotnot.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", phuthuanb
+http://sohoa.truyenthanhthongminh.vn/phuthuanb.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", phuvangtphue
+http://sohoa.truyenthanhthongminh.vn/phuvangtphue.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", shphuongmythuong
+http://sohoa.truyenthanhthongminh.vn/shphuongmythuong.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", sohoabinhduong
+http://sohoa.truyenthanhthongminh.vn/sohoabinhduong.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", sohoabinhphuoc
+http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", sohoahaihau
+http://sohoa.truyenthanhthongminh.vn/sohoahaihau.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", sohoanamdinh
+http://sohoa.truyenthanhthongminh.vn/sohoanamdinh.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", sohoanamloc
+http://sohoa.truyenthanhthongminh.vn/sohoanamloc.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", sohoathuanan
+http://sohoa.truyenthanhthongminh.vn/sohoathuanan.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", sohoatinhhanam
+http://sohoa.truyenthanhthongminh.vn/sohoatinhhanam.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", sohoatinhlaocai
+http://sohoa.truyenthanhthongminh.vn/sohoatinhlaocai.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", sohoavikhe
+http://sohoa.truyenthanhthongminh.vn/sohoavikhe.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", tankhanhtrunglapvodongthap
+http://sohoa.truyenthanhthongminh.vn/tankhanhtrunglapvodongthap.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", testnan
+http://sohoa.truyenthanhthongminh.vn/testnan.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", tinhtravinh
+http://sohoa.truyenthanhthongminh.vn/tinhtravinh.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", tpbmt
+http://sohoa.truyenthanhthongminh.vn/tpbmt.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", tpcantho
+http://sohoa.truyenthanhthongminh.vn/tpcantho.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", tphn.anloc
+http://sohoa.truyenthanhthongminh.vn/tphn.anloc.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", tttracu.travinh
+http://sohoa.truyenthanhthongminh.vn/tttracu.travinh.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", tuyandong
+http://sohoa.truyenthanhthongminh.vn/tuyandong.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", txgc
+http://sohoa.truyenthanhthongminh.vn/txgc.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", txninhhoa
+http://sohoa.truyenthanhthongminh.vn/txninhhoa.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", vinhhungphuloc
+http://sohoa.truyenthanhthongminh.vn/vinhhungphuloc.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", xatanhoi
+http://sohoa.truyenthanhthongminh.vn/xatanhoi.m3u
+#EXTINF:-1 group-title="TRUYỀN THANH THÔNG MINH", xathanhbinh
+http://sohoa.truyenthanhthongminh.vn/xathanhbinh.m3u
