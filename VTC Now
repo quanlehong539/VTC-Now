@@ -371,8 +371,6 @@ https://audio-lss.vov.vn/han/live/vov1/audio/haudio-eng.m3u8
 https://audio-lss.vov.vn/han/live/vov2/audio/haudio-eng.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov3" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png", VOV3
 https://audio-lss.vov.vn/han/live/vov3/audio/haudio-eng.m3u8
-#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4tb" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Tây Bắc - Đông Bắc
-https://stream-cdn.vov.vn/live/vov4-audio_only.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov5" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png", VOV5
 https://stream.vovmedia.vn/vov5
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov247" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-en.png", VOV English 24/7
@@ -421,6 +419,8 @@ https://nhkworld-radio.akamaized.net/hls/live/2115820/nhkworld-radio-rs5/index_r
 https://radio.zelerk.com/hls/chiptune/hq.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://watch.vapor.fm/logo", 24/7 Vapor Funk Radio by zelerK
 https://radio.zelerk.com/hls/vapor/hq.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://static.wixstatic.com/media/cd82dc_c1e307641d474691a6b45b14b4e92c5b~mv2.png", Scientific Sound Asia
+https://carol.epichosts.co.uk:8272/live.mp3
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/HCR_whitelogo.png", Hà Nội Community Radio
 https://ha-noi-community-radio.radiocult.fm/stream
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://kcradio.nl/wp-content/uploads/2024/06/1-480x480.png", KC Radio 80's & 90's Hits
