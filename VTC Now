@@ -118,6 +118,15 @@ https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv18hd" tvg-logo="https://img.vtvprime.vn/lwCZ6Ou47DmElCmpM04jou1kewLPYbkxxBdB_OUy1PI/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNWRlNmQyYWQtODY1ZC00MzlmLWEyYzUtNDIwYjI5ZWU4Nzk1LnBuZw==.png", SCTV18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv19hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/Channel_T.png/revision/latest?cb=20220605130218&path-prefix=vi", SCTV19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv20hd" tvg-logo="https://img.vtvprime.vn/KjBSuEOs9GW5Y_2vOHKbyXkk4iwEqW6Kn7CgFhyTmQ8/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYzNlZTRlMTYtM2I0MC00MTdjLTlkOWUtZWI3OWQzYTY5MjgzLnBuZw==.png", SCTV20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv21hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/04/Vi%E1%BB%87t_Nam_k%C3%BD_%E1%BB%A9c.png/revision/latest?cb=20240116142159&path-prefix=vi", SCTV21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv22hd" tvg-logo="https://img.vtvprime.vn/8EDc4aHKZhga3-JQ72NQf06cwtefrcE_jgxUPiKUA_E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjk2OTYyYTktOWIwNy00YThmLWE5ZWUtYzY0NmY4YWI2M2Y1LnBuZw==.png", SCTV22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
@@ -256,9 +265,6 @@ https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="vinhlong4hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/THVL4_logo.png/revision/latest?cb=20220505105305&path-prefix=vi", TH Vĩnh Long 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="vinhlong5hd" tvg-logo="https://www.thvl.vn/wp-content/themes/thvl-2025/imgs/thvl5.png", TH Vĩnh Long 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hanoi1" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2026/4/7/GEPVTKU9W9RC.png", TH Hà Nội 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
@@ -419,8 +425,6 @@ https://radio.talksport.com/stream2
 https://radio.zelerk.com/hls/chiptune/hq.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://watch.vapor.fm/logo", 24/7 Vapor Funk Radio by zelerK
 https://radio.zelerk.com/hls/vapor/hq.m3u8
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://static.wixstatic.com/media/cd82dc_c1e307641d474691a6b45b14b4e92c5b~mv2.png", Scientific Sound Asia
-https://carol.epichosts.co.uk:8272/live.mp3
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/HCR_whitelogo.png", Hà Nội Community Radio
 https://ha-noi-community-radio.radiocult.fm/stream
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://kcradio.asia/assets/logo-circle.png", KC Radio Mixed in Vietnam
@@ -489,8 +493,6 @@ https://vip.opstream90.com/20260108/21888_4e1c697c/index.m3u8
 https://vip.opstream90.com/20260109/21976_44e2a386/index.m3u8
 #EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/dolphin-summer-thumb.jpg", Mùa Hè Cá Heo
 https://vip.opstream90.com/20260108/21906_78dbe27f/index.m3u8
-#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/p77-thumb.jpg", Penthouse 77
-https://vip.opstream17.com/20260109/26213_bb6023f7/index.m3u8
 #EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/vong-nhi-cup-be-thumb.jpg", Vong Nhi Cúp Bế
 https://vip.opstream90.com/20260103/21593_aca9d4f9/index.m3u8
 #EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/hiep-si-mat-na-dai-chien-dau-truong-sinh-tu-thumb.jpg", Hiệp Sĩ Mặt Nạ Đại Chiến: Đấu Trường Sinh Tử
@@ -535,8 +537,6 @@ https://vip.opstream10.com/20250822/30232_9b01ea73/index.m3u8
 https://vip.opstream90.com/20251029/16419_9a8799e6/index.m3u8
 #EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/khong-con-song-sinh-thumb.jpg", Nửa Bóng Cô Liêu
 https://vip.opstream17.com/20251027/22185_a9eff89d/index.m3u8
-#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/cho-cung-dung-so-thumb.jpg", Chó Cưng Đừng Sợ
-https://vip.opstream90.com/20251026/16103_8f5c0167/index.m3u8
 #EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/vai-tien-truong-an-thumb.jpg", Vải Tiến Trường An
 https://vip.opstream17.com/20251026/22183_35ca2054/index.m3u8
 #EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img.ophim.live/uploads/movies/suyt-nua-thi-thumb.jpg", Suýt Nữa Thì
